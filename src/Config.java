@@ -6,6 +6,7 @@ public class Config {
 
     private final Properties properties;
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public Config(String filePath) throws IOException {
         properties = new Properties();
         FileInputStream fis = new FileInputStream(filePath);

@@ -15,9 +15,7 @@ public class Snapshot {
     public Snapshot() {
 
         snapshotRecorded = false;
-
         localState = "";
-
         channelStates = new ArrayList<>();
 
     }

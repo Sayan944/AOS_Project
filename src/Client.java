@@ -15,7 +15,7 @@ public class Client {
     /**
      * Sends a message to another university.
      */
-    public void send(Message message) {
+    public boolean send(Message message) {
 
         int destination = message.getReceiverId();
 
@@ -32,6 +32,7 @@ public class Client {
             out.flush();
 
             Logger.sent(mySiteId, message);
+            return true;
 
         } catch (IOException e) {
 
@@ -39,8 +40,10 @@ public class Client {
                     "FAILED TO SEND "
                             + message.getType()
                             + " TO University "
-                            + destination);
-
+                            + destination
+                            + " : "
+                            + e);
+            return false;
         }
     }
 

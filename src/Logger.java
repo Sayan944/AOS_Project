@@ -185,7 +185,6 @@ public class Logger {
     public static void close() {
 
         if (writer != null) {
-
             writer.close();
         }
     }

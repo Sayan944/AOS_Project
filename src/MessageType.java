@@ -10,5 +10,7 @@ public enum MessageType {
 
     TOKEN_OWNER,
 
-    START
+    START,
+
+    PING
 }

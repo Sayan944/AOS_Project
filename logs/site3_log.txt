@@ -1,0 +1,287 @@
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:03:19] [University 3] Starting University 3
+[29-07-2026 00:03:19] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 00:03:21] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:03:21] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:03:21] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 00:03:21] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:03:21] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 00:03:21] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:21] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[29-07-2026 00:03:26] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:26] [University 3] Connection failed for 100.85.3.115:5004 (attempt 2/60): Connection refused
+[29-07-2026 00:03:31] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:31] [University 3] Connection failed for 100.85.3.115:5004 (attempt 3/60): Connection refused
+[29-07-2026 00:03:36] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:36] [University 3] Connection failed for 100.85.3.115:5004 (attempt 4/60): Connection refused
+[29-07-2026 00:03:41] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:41] [University 3] Connection failed for 100.85.3.115:5004 (attempt 5/60): Connection refused
+[29-07-2026 00:03:46] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:46] [University 3] Connection failed for 100.85.3.115:5004 (attempt 6/60): Connection refused
+[29-07-2026 00:03:51] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:51] [University 3] Connection failed for 100.85.3.115:5004 (attempt 7/60): Connection refused
+[29-07-2026 00:03:56] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:03:56] [University 3] Connection failed for 100.85.3.115:5004 (attempt 8/60): Connection refused
+[29-07-2026 00:04:01] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:01] [University 3] Connection failed for 100.85.3.115:5004 (attempt 9/60): Connection refused
+[29-07-2026 00:04:06] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:06] [University 3] Connection failed for 100.85.3.115:5004 (attempt 10/60): Connection refused
+[29-07-2026 00:04:11] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:11] [University 3] Connection failed for 100.85.3.115:5004 (attempt 11/60): Connection refused
+[29-07-2026 00:04:16] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:16] [University 3] Connection failed for 100.85.3.115:5004 (attempt 12/60): Connection refused
+[29-07-2026 00:04:21] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:21] [University 3] Connection failed for 100.85.3.115:5004 (attempt 13/60): Connection refused
+[29-07-2026 00:04:26] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:26] [University 3] Connection failed for 100.85.3.115:5004 (attempt 14/60): Connection refused
+[29-07-2026 00:04:31] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:31] [University 3] Connection failed for 100.85.3.115:5004 (attempt 15/60): Connection refused
+[29-07-2026 00:04:36] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:36] [University 3] Connection failed for 100.85.3.115:5004 (attempt 16/60): Connection refused
+[29-07-2026 00:04:41] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:41] [University 3] Connection failed for 100.85.3.115:5004 (attempt 17/60): Connection refused
+[29-07-2026 00:04:46] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:46] [University 3] Connection failed for 100.85.3.115:5004 (attempt 18/60): Connection refused
+[29-07-2026 00:04:51] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:51] [University 3] Connection failed for 100.85.3.115:5004 (attempt 19/60): Connection refused
+[29-07-2026 00:04:56] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:04:56] [University 3] Connection failed for 100.85.3.115:5004 (attempt 20/60): Connection refused
+[29-07-2026 00:05:01] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:05:01] [University 3] Connection failed for 100.85.3.115:5004 (attempt 21/60): Connection refused
+[29-07-2026 00:05:06] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:05:06] [University 3] Connection failed for 100.85.3.115:5004 (attempt 22/60): Connection refused
+[29-07-2026 00:05:11] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:05:11] [University 3] Connection failed for 100.85.3.115:5004 (attempt 23/60): Connection refused
+[29-07-2026 00:05:16] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:05:16] [University 3] Connection failed for 100.85.3.115:5004 (attempt 24/60): Connection refused
+[29-07-2026 00:05:21] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:05:21] [University 3] Connection failed for 100.85.3.115:5004 (attempt 25/60): Connection refused
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:12:00] [University 3] Starting University 3
+[29-07-2026 00:12:00] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 00:12:02] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:12:02] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:12:02] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 00:12:02] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:12:02] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 00:12:02] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:12:02] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[29-07-2026 00:12:07] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:12:07] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 00:12:07] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:12:08] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:12:08] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:12:08] [University 3] Waiting for coordinator (University 1) to broadcast the tree...
+[29-07-2026 00:26:41] [University 3] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:10] [University 3] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:30:23] [University 3] Starting University 3
+[29-07-2026 00:30:23] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 00:30:25] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:30:25] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:30:25] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 00:30:25] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:30:25] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 00:30:25] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:30:25] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[29-07-2026 00:30:30] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:30:30] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 00:30:30] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:30:30] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:30:30] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:30:30] [University 3] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:49:21] [University 3] Starting University 3
+[29-07-2026 00:49:21] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 00:49:23] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:49:23] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:49:23] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 00:49:23] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:28] [University 3] Connection timed out for 100.89.241.121:5002 (attempt 1/60)
+[29-07-2026 00:49:33] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:38] [University 3] Connection timed out for 100.89.241.121:5002 (attempt 2/60)
+[29-07-2026 00:49:43] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:48] [University 3] Connection timed out for 100.89.241.121:5002 (attempt 3/60)
+[29-07-2026 00:49:53] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:58] [University 3] Connection timed out for 100.89.241.121:5002 (attempt 4/60)
+[29-07-2026 00:50:03] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:50:05] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 00:50:05] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:50:05] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 00:50:05] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:50:06] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:50:06] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:50:06] [University 3] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 00:51:34] [University 3] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:54:59] [University 3] Starting University 3
+[29-07-2026 00:54:59] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 00:55:01] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:55:01] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:55:01] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 00:55:01] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:55:01] [University 3] Connection failed for 100.89.241.121:5002 (attempt 1/60): Connection refused
+[29-07-2026 00:55:06] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:55:06] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 00:55:06] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:55:06] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 00:55:06] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:55:06] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:55:06] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:55:06] [University 3] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:02:50] [University 3] Starting University 3
+[29-07-2026 01:02:50] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 01:02:52] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:02:52] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:02:52] [University 3] Connection failed for 100.85.3.115:5001 (attempt 1/60): Connection refused
+[29-07-2026 01:02:57] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:02:57] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 01:02:57] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:02:57] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 01:02:57] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:02:57] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 01:02:57] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:02:57] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:02:57] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:02:57] [University 3] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:07:26] [University 3] Starting University 3
+[29-07-2026 01:07:26] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[29-07-2026 01:07:28] [University 3] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:07:28] [University 3] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:07:28] [University 3] Connected to 100.85.3.115:5001
+[29-07-2026 01:07:28] [University 3] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:07:28] [University 3] Connected to 100.89.241.121:5002
+[29-07-2026 01:07:28] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:07:28] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[29-07-2026 01:07:33] [University 3] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:07:33] [University 3] Connected to 100.85.3.115:5004
+[29-07-2026 01:07:33] [University 3] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:07:33] [University 3] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:07:33] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:07:33] [University 3] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:11:11] [University 3] ERROR HANDLING MESSAGE : null
+[29-07-2026 01:14:27] [University 3] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:23:49] [University 3] Starting University 3
+[30-07-2026 19:23:49] [University 3] SERVER STARTED ON PORT 5003
+------------------------------------------------------------
+[30-07-2026 19:23:51] [University 3] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:23:51] [University 3] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:23:51] [University 3] Connected to 100.85.3.115:5001
+[30-07-2026 19:23:51] [University 3] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:23:51] [University 3] Connected to 100.85.3.115:5002
+[30-07-2026 19:23:51] [University 3] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:23:51] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[30-07-2026 19:23:56] [University 3] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:23:56] [University 3] Connected to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:23:56] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:23:56] [University 3] Waiting for coordinator (University 1) to broadcast the tree...
+[30-07-2026 19:47:04] [University 3] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:47:59] [University 3] Starting University 3
+[30-07-2026 19:47:59] [University 3] SERVER STARTED ON PORT 5003
+[30-07-2026 19:48:01] [University 3] RECEIVED PING FROM University 1
+[30-07-2026 19:48:01] [University 3] PING received from University 1
+------------------------------------------------------------
+[30-07-2026 19:48:01] [University 3] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:48:01] [University 3] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:48:01] [University 3] SENT PING TO University 1
+[30-07-2026 19:48:01] [University 3] Ping delivered to 100.85.3.115:5001
+[30-07-2026 19:48:01] [University 3] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:48:01] [University 3] SENT PING TO University 2
+[30-07-2026 19:48:01] [University 3] Ping delivered to 100.85.3.115:5002
+[30-07-2026 19:48:01] [University 3] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:48:01] [University 3] FAILED TO SEND PING TO University 4 : java.net.ConnectException: Connection refused
+[30-07-2026 19:48:01] [University 3] Connection failed for 100.85.3.115:5004 (attempt 1/60)
+[30-07-2026 19:48:03] [University 3] RECEIVED PING FROM University 2
+[30-07-2026 19:48:03] [University 3] PING received from University 2
+[30-07-2026 19:48:04] [University 3] RECEIVED PING FROM University 4
+[30-07-2026 19:48:04] [University 3] PING received from University 4
+[30-07-2026 19:48:06] [University 3] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:48:06] [University 3] SENT PING TO University 4
+[30-07-2026 19:48:06] [University 3] Ping delivered to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:48:06] [University 3] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:48:06] [University 3] Waiting for coordinator (University 1) to broadcast the tree...
+[30-07-2026 19:49:04] [University 3] RECEIVED TREE_CONFIG FROM University 1
+[30-07-2026 19:49:04] [University 3] Tree updated. Parent = 1 Children = []
+[30-07-2026 19:49:04] [University 3] Tree configuration received.
+[30-07-2026 19:49:06] [University 3] Tree received. Starting menu.
+[30-07-2026 19:49:28] [University 3] RECEIVED TOKEN_OWNER FROM University 1
+[30-07-2026 19:49:28] [University 3] Holder = 1 Token = false
+[30-07-2026 19:49:28] [University 3] RECEIVED START FROM University 1
+[30-07-2026 19:49:28] [University 3] SYSTEM STARTED
+[30-07-2026 19:51:14] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:14] [University 3] SENT REQUEST TO University 1
+[30-07-2026 19:51:17] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:18] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:19] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:20] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:21] [University 3] REQUESTING AI ACCELERATOR
+[30-07-2026 19:52:54] [University 3] RECEIVED TOKEN FROM University 1
+[30-07-2026 19:52:54] [University 3] TOKEN RECEIVED
+[30-07-2026 19:52:54] [University 3] ENTERING CRITICAL SECTION
+[30-07-2026 19:53:54] [University 3] EXITING CRITICAL SECTION
+[30-07-2026 19:53:54] [University 3] RECEIVED REQUEST FROM University 1
+[30-07-2026 19:53:54] [University 3] SENT TOKEN TO University 1
+[30-07-2026 19:53:54] [University 3] TOKEN SENT TO University 1

@@ -41,11 +41,13 @@ public class ServerThread extends Thread {
 
                 } catch (IOException | ClassNotFoundException e) {
                     Logger.log(node.getSiteId(),
-                            "ERROR HANDLING MESSAGE : " + e.getMessage());
-
+                            "ERROR HANDLING MESSAGE : " + e);
+                    e.printStackTrace();
                 } finally {
-
-                    socket.close();
+                    try {
+                        socket.close();
+                    } catch (IOException ignored) {
+                    }
                 }
             }
 

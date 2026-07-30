@@ -1,0 +1,78 @@
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:23:46] [University 2] Starting University 2
+[30-07-2026 19:23:46] [University 2] SERVER STARTED ON PORT 5002
+------------------------------------------------------------
+[30-07-2026 19:23:48] [University 2] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:23:48] [University 2] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:23:48] [University 2] Connected to 100.85.3.115:5001
+[30-07-2026 19:23:48] [University 2] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:23:48] [University 2] Connection failed for 100.85.3.115:5003 (attempt 1/60): Connection refused
+[30-07-2026 19:23:53] [University 2] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:23:53] [University 2] Connected to 100.85.3.115:5003
+[30-07-2026 19:23:53] [University 2] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:23:53] [University 2] Connected to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 2] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 2] Waiting for coordinator (University 1) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:47:56] [University 2] Starting University 2
+[30-07-2026 19:47:56] [University 2] SERVER STARTED ON PORT 5002
+------------------------------------------------------------
+[30-07-2026 19:47:58] [University 2] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:47:58] [University 2] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:47:58] [University 2] SENT PING TO University 1
+[30-07-2026 19:47:58] [University 2] Ping delivered to 100.85.3.115:5001
+[30-07-2026 19:47:58] [University 2] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:47:58] [University 2] FAILED TO SEND PING TO University 3 : java.net.ConnectException: Connection refused
+[30-07-2026 19:47:58] [University 2] Connection failed for 100.85.3.115:5003 (attempt 1/60)
+[30-07-2026 19:48:01] [University 2] RECEIVED PING FROM University 1
+[30-07-2026 19:48:01] [University 2] PING received from University 1
+[30-07-2026 19:48:01] [University 2] RECEIVED PING FROM University 3
+[30-07-2026 19:48:01] [University 2] PING received from University 3
+[30-07-2026 19:48:03] [University 2] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:48:03] [University 2] SENT PING TO University 3
+[30-07-2026 19:48:03] [University 2] Ping delivered to 100.85.3.115:5003
+[30-07-2026 19:48:03] [University 2] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:48:03] [University 2] SENT PING TO University 4
+[30-07-2026 19:48:03] [University 2] Ping delivered to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:48:03] [University 2] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:48:03] [University 2] Waiting for coordinator (University 1) to broadcast the tree...
+[30-07-2026 19:48:04] [University 2] RECEIVED PING FROM University 4
+[30-07-2026 19:48:04] [University 2] PING received from University 4
+[30-07-2026 19:49:04] [University 2] RECEIVED TREE_CONFIG FROM University 1
+[30-07-2026 19:49:04] [University 2] Tree updated. Parent = 1 Children = [4]
+[30-07-2026 19:49:04] [University 2] Tree configuration received.
+[30-07-2026 19:49:28] [University 2] RECEIVED TOKEN_OWNER FROM University 1
+[30-07-2026 19:49:28] [University 2] Holder = 1 Token = false
+[30-07-2026 19:49:28] [University 2] RECEIVED START FROM University 1
+[30-07-2026 19:49:28] [University 2] SYSTEM STARTED
+[30-07-2026 19:50:03] [University 2] Tree received. Starting menu.
+[30-07-2026 19:50:04] [University 2] RECEIVED REQUEST FROM University 4
+[30-07-2026 19:50:04] [University 2] SENT REQUEST TO University 1
+[30-07-2026 19:50:53] [University 2] RECEIVED TOKEN FROM University 1
+[30-07-2026 19:50:53] [University 2] TOKEN RECEIVED
+[30-07-2026 19:50:53] [University 2] SENT TOKEN TO University 4
+[30-07-2026 19:50:53] [University 2] TOKEN SENT TO University 4
+[30-07-2026 19:51:14] [University 2] RECEIVED REQUEST FROM University 1
+[30-07-2026 19:51:14] [University 2] SENT REQUEST TO University 4
+[30-07-2026 19:52:54] [University 2] RECEIVED TOKEN FROM University 4
+[30-07-2026 19:52:54] [University 2] TOKEN RECEIVED
+[30-07-2026 19:52:54] [University 2] SENT TOKEN TO University 1
+[30-07-2026 19:52:54] [University 2] TOKEN SENT TO University 1
+[30-07-2026 19:52:54] [University 2] RECEIVED REQUEST FROM University 4
+[30-07-2026 19:52:54] [University 2] SENT REQUEST TO University 1
+[30-07-2026 19:53:54] [University 2] RECEIVED TOKEN FROM University 1
+[30-07-2026 19:53:54] [University 2] TOKEN RECEIVED
+[30-07-2026 19:53:54] [University 2] SENT TOKEN TO University 4
+[30-07-2026 19:53:54] [University 2] TOKEN SENT TO University 4

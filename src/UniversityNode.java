@@ -139,6 +139,14 @@ public class UniversityNode {
                         "SYSTEM STARTED");
 
                 break;
+
+            case PING:
+
+                Logger.log(siteId,
+                        "PING received from University "
+                                + message.getSenderId());
+
+                break;
         }
     }
 

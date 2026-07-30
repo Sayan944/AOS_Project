@@ -1,0 +1,584 @@
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 22:52:48] [University 1] Starting University 1
+[28-07-2026 22:52:48] [University 1] SERVER STARTED ON PORT 5001
+[28-07-2026 22:52:48] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+[28-07-2026 22:52:50] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 22:52:50] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 22:52:50] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 22:53:41] [University 1] Tree updated. Parent = -1 Children = [2]
+[28-07-2026 22:53:41] [University 1] Tree configuration received.
+[28-07-2026 22:53:41] [University 1] SENT TREE_CONFIG TO University 2
+[28-07-2026 22:54:02] [University 1] Holder = 1 Token = true
+[28-07-2026 22:54:02] [University 1] SENT TOKEN_OWNER TO University 2
+[28-07-2026 22:54:02] [University 1] SYSTEM STARTED
+[28-07-2026 22:54:02] [University 1] SENT START TO University 2
+[28-07-2026 22:54:21] [University 1] RECEIVED REQUEST FROM University 2
+[28-07-2026 22:54:21] [University 1] SENT TOKEN TO University 2
+[28-07-2026 22:54:21] [University 1] TOKEN SENT TO University 2
+[28-07-2026 22:55:12] [University 1] STARTED SNAPSHOT #1001
+[28-07-2026 22:55:12] [University 1] SENT MARKER TO University 2
+[28-07-2026 22:55:12] [University 1] RECEIVED MARKER FROM University 2
+[28-07-2026 22:55:12] [University 1] Marker received from University 2 (1/1 channels closed)
+[28-07-2026 22:55:12] [University 1] COMPLETED SNAPSHOT #1001
+[28-07-2026 22:58:07] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 22:58:07] [University 1] SENT REQUEST TO University 2
+[28-07-2026 22:58:08] [University 1] RECEIVED TOKEN FROM University 2
+[28-07-2026 22:58:08] [University 1] TOKEN RECEIVED
+[28-07-2026 22:58:08] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 22:58:13] [University 1] EXITING CRITICAL SECTION
+[28-07-2026 22:59:46] [University 1] STARTED SNAPSHOT #1002
+[28-07-2026 22:59:46] [University 1] SENT MARKER TO University 2
+[28-07-2026 22:59:47] [University 1] RECEIVED MARKER FROM University 2
+[28-07-2026 22:59:47] [University 1] Marker received from University 2 (1/1 channels closed)
+[28-07-2026 22:59:47] [University 1] COMPLETED SNAPSHOT #1002
+[28-07-2026 23:01:34] [University 1] Shutting down.
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:06:16] [University 1] Starting University 1
+[28-07-2026 23:06:16] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:06:18] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:06:18] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:06:18] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 23:06:25] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:06:45] [University 1] Starting University 1
+[28-07-2026 23:06:45] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:06:47] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:06:47] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:06:47] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 23:07:12] [University 1] Tree updated. Parent = 2 Children = []
+[28-07-2026 23:07:12] [University 1] Tree configuration received.
+[28-07-2026 23:07:12] [University 1] SENT TREE_CONFIG TO University 2
+[28-07-2026 23:07:29] [University 1] Holder = 1 Token = true
+[28-07-2026 23:07:29] [University 1] SENT TOKEN_OWNER TO University 2
+[28-07-2026 23:07:29] [University 1] SYSTEM STARTED
+[28-07-2026 23:07:29] [University 1] SENT START TO University 2
+[28-07-2026 23:07:33] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 23:07:33] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 23:08:33] [University 1] EXITING CRITICAL SECTION
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:10:55] [University 1] Starting University 1
+[28-07-2026 23:10:55] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:10:57] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:10:57] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:10:57] [University 1] Connection Test Complete.
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:11:48] [University 1] Starting University 1
+[28-07-2026 23:11:48] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:11:50] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:11:50] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:11:50] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 23:11:51] [University 1] ERROR HANDLING MESSAGE : null
+[28-07-2026 23:12:20] [University 1] Tree updated. Parent = 2 Children = []
+[28-07-2026 23:12:20] [University 1] Tree configuration received.
+[28-07-2026 23:12:20] [University 1] SENT TREE_CONFIG TO University 2
+[28-07-2026 23:12:23] [University 1] Holder = 1 Token = true
+[28-07-2026 23:12:23] [University 1] SENT TOKEN_OWNER TO University 2
+[28-07-2026 23:12:23] [University 1] SYSTEM STARTED
+[28-07-2026 23:12:23] [University 1] SENT START TO University 2
+[28-07-2026 23:12:25] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 23:12:25] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 23:13:25] [University 1] EXITING CRITICAL SECTION
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:14:27] [University 1] Starting University 1
+[28-07-2026 23:14:27] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:14:29] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:14:29] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:14:29] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 23:14:31] [University 1] ERROR HANDLING MESSAGE : null
+[28-07-2026 23:14:52] [University 1] Tree updated. Parent = 2 Children = []
+[28-07-2026 23:14:52] [University 1] Tree configuration received.
+[28-07-2026 23:14:52] [University 1] SENT TREE_CONFIG TO University 2
+[28-07-2026 23:14:54] [University 1] Holder = 1 Token = true
+[28-07-2026 23:14:54] [University 1] SENT TOKEN_OWNER TO University 2
+[28-07-2026 23:14:54] [University 1] SYSTEM STARTED
+[28-07-2026 23:14:54] [University 1] SENT START TO University 2
+[28-07-2026 23:14:56] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 23:14:56] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 23:15:56] [University 1] EXITING CRITICAL SECTION
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:16:43] [University 1] Starting University 1
+[28-07-2026 23:16:43] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:16:45] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:16:45] [University 1] SUCCESS -> University 2 (100.89.241.121:5002)
+------------------------------------------------------------
+[28-07-2026 23:16:45] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 23:16:47] [University 1] ERROR HANDLING MESSAGE : null
+[28-07-2026 23:16:55] [University 1] Tree updated. Parent = -1 Children = [2]
+[28-07-2026 23:16:55] [University 1] Tree configuration received.
+[28-07-2026 23:16:55] [University 1] SENT TREE_CONFIG TO University 2
+[28-07-2026 23:16:58] [University 1] Holder = 1 Token = true
+[28-07-2026 23:16:58] [University 1] SENT TOKEN_OWNER TO University 2
+[28-07-2026 23:16:58] [University 1] SYSTEM STARTED
+[28-07-2026 23:16:58] [University 1] SENT START TO University 2
+[28-07-2026 23:17:01] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 23:17:01] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 23:17:05] [University 1] RECEIVED REQUEST FROM University 2
+[28-07-2026 23:18:01] [University 1] EXITING CRITICAL SECTION
+[28-07-2026 23:18:01] [University 1] SENT TOKEN TO University 2
+[28-07-2026 23:18:01] [University 1] TOKEN SENT TO University 2
+[28-07-2026 23:18:01] [University 1] RECEIVED MARKER FROM University 2
+[28-07-2026 23:18:01] [University 1] STARTED SNAPSHOT #2001
+[28-07-2026 23:18:01] [University 1] SENT MARKER TO University 2
+[28-07-2026 23:18:01] [University 1] Marker received from University 2 (1/1 channels closed)
+[28-07-2026 23:18:01] [University 1] COMPLETED SNAPSHOT #2001
+[28-07-2026 23:21:27] [University 1] REQUESTING AI ACCELERATOR
+[28-07-2026 23:21:27] [University 1] SENT REQUEST TO University 2
+[28-07-2026 23:21:27] [University 1] RECEIVED TOKEN FROM University 2
+[28-07-2026 23:21:27] [University 1] TOKEN RECEIVED
+[28-07-2026 23:21:27] [University 1] ENTERING CRITICAL SECTION
+[28-07-2026 23:22:27] [University 1] EXITING CRITICAL SECTION
+[28-07-2026 23:22:27] [University 1] RECEIVED REQUEST FROM University 2
+[28-07-2026 23:22:27] [University 1] SENT TOKEN TO University 2
+[28-07-2026 23:22:27] [University 1] TOKEN SENT TO University 2
+[28-07-2026 23:22:27] [University 1] RECEIVED MARKER FROM University 2
+[28-07-2026 23:22:27] [University 1] STARTED SNAPSHOT #2002
+[28-07-2026 23:22:27] [University 1] SENT MARKER TO University 2
+[28-07-2026 23:22:27] [University 1] Marker received from University 2 (1/1 channels closed)
+[28-07-2026 23:22:27] [University 1] COMPLETED SNAPSHOT #2002
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:49:01] [University 1] Starting University 1
+[28-07-2026 23:49:01] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:49:03] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:49:03] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:03] [University 1] Connection failed for 100.89.241.121:5001 (attempt 1/60): Connection refused
+[28-07-2026 23:49:08] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:08] [University 1] Connection failed for 100.89.241.121:5001 (attempt 2/60): Connection refused
+[28-07-2026 23:49:13] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:13] [University 1] Connection failed for 100.89.241.121:5001 (attempt 3/60): Connection refused
+[28-07-2026 23:49:18] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:18] [University 1] Connection failed for 100.89.241.121:5001 (attempt 4/60): Connection refused
+[28-07-2026 23:49:23] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:23] [University 1] Connection failed for 100.89.241.121:5001 (attempt 5/60): Connection refused
+[28-07-2026 23:49:28] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:28] [University 1] Connection failed for 100.89.241.121:5001 (attempt 6/60): Connection refused
+[28-07-2026 23:49:33] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:33] [University 1] Connection failed for 100.89.241.121:5001 (attempt 7/60): Connection refused
+[28-07-2026 23:49:38] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:38] [University 1] Connection failed for 100.89.241.121:5001 (attempt 8/60): Connection refused
+[28-07-2026 23:49:43] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:43] [University 1] Connection failed for 100.89.241.121:5001 (attempt 9/60): Connection refused
+[28-07-2026 23:49:48] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:48] [University 1] Connection failed for 100.89.241.121:5001 (attempt 10/60): Connection refused
+[28-07-2026 23:49:53] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:53] [University 1] Connection failed for 100.89.241.121:5001 (attempt 11/60): Connection refused
+[28-07-2026 23:49:58] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:49:58] [University 1] Connection failed for 100.89.241.121:5001 (attempt 12/60): Connection refused
+[28-07-2026 23:50:03] [University 1] Connecting to 100.89.241.121:5001  ...
+[28-07-2026 23:50:04] [University 1] Connection failed for 100.89.241.121:5001 (attempt 13/60): Connection refused
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 23:56:36] [University 1] Starting University 1
+[28-07-2026 23:56:36] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[28-07-2026 23:56:38] [University 1] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 23:56:38] [University 1] Connecting to 100.89.241.121:5002  ...
+[28-07-2026 23:56:38] [University 1] Connected to 100.89.241.121:5002
+------------------------------------------------------------
+[28-07-2026 23:56:38] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:01:58] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:01:58] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:03:15] [University 1] Starting University 1
+[29-07-2026 00:03:15] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 00:03:17] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:03:17] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:03:17] [University 1] Connected to 100.89.241.121:5002
+------------------------------------------------------------
+[29-07-2026 00:03:17] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:05:26] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:11:57] [University 1] Starting University 1
+[29-07-2026 00:11:57] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 00:11:59] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:11:59] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:11:59] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 00:11:59] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:11:59] [University 1] Connection failed for 100.85.3.115:5003 (attempt 1/60): Connection refused
+[29-07-2026 00:12:04] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:12:04] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 00:12:04] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:12:04] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 00:12:04] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:12:04] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:12:04] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:13:07] [University 1] Tree updated. Parent = -1 Children = [2, 4]
+[29-07-2026 00:13:07] [University 1] Tree configuration received.
+[29-07-2026 00:13:07] [University 1] SENT TREE_CONFIG TO University 2
+[29-07-2026 00:13:07] [University 1] SENT TREE_CONFIG TO University 3
+[29-07-2026 00:13:07] [University 1] SENT TREE_CONFIG TO University 4
+[29-07-2026 00:13:07] [University 1] SENT TREE_CONFIG TO University 5
+[29-07-2026 00:13:43] [University 1] Holder = 1 Token = true
+[29-07-2026 00:13:43] [University 1] SENT TOKEN_OWNER TO University 2
+[29-07-2026 00:13:43] [University 1] SENT TOKEN_OWNER TO University 3
+[29-07-2026 00:13:43] [University 1] SENT TOKEN_OWNER TO University 4
+[29-07-2026 00:13:43] [University 1] SENT TOKEN_OWNER TO University 5
+[29-07-2026 00:13:43] [University 1] SYSTEM STARTED
+[29-07-2026 00:13:43] [University 1] SENT START TO University 2
+[29-07-2026 00:13:43] [University 1] SENT START TO University 3
+[29-07-2026 00:13:43] [University 1] SENT START TO University 4
+[29-07-2026 00:13:43] [University 1] SENT START TO University 5
+[29-07-2026 00:17:08] [University 1] REQUESTING AI ACCELERATOR
+[29-07-2026 00:17:08] [University 1] ENTERING CRITICAL SECTION
+[29-07-2026 00:18:08] [University 1] EXITING CRITICAL SECTION
+[29-07-2026 00:26:55] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:26:55] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:30:18] [University 1] Starting University 1
+[29-07-2026 00:30:18] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 00:30:20] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:30:20] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:30:20] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 00:30:20] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:30:20] [University 1] Connection failed for 100.85.3.115:5003 (attempt 1/60): Connection refused
+[29-07-2026 00:30:25] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:30:25] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 00:30:25] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:30:25] [University 1] Connection failed for 100.85.3.115:5004 (attempt 1/60): Connection refused
+[29-07-2026 00:30:30] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:30:30] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 00:30:30] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:30:30] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:30:30] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:30:30] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 00:35:57] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:35:57] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:48:11] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:48:30] [University 1] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:48:30] [University 1] RECEIVED TREE_CONFIG FROM University 5
+[29-07-2026 00:48:30] [University 1] Tree updated. Parent = 2 Children = []
+[29-07-2026 00:48:30] [University 1] Tree configuration received.
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:49:17] [University 1] Starting University 1
+[29-07-2026 00:49:17] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 00:49:19] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:49:19] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:24] [University 1] Connection timed out for 100.89.241.121:5002 (attempt 1/60)
+[29-07-2026 00:49:29] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:34] [University 1] Connection timed out for 100.89.241.121:5002 (attempt 2/60)
+[29-07-2026 00:49:39] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:44] [University 1] Connection timed out for 100.89.241.121:5002 (attempt 3/60)
+[29-07-2026 00:49:49] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:54] [University 1] Connection timed out for 100.89.241.121:5002 (attempt 4/60)
+[29-07-2026 00:49:59] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:50:04] [University 1] Connection timed out for 100.89.241.121:5002 (attempt 5/60)
+[29-07-2026 00:50:09] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:50:09] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 00:50:09] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:50:09] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 00:50:09] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:50:09] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 00:50:09] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:50:09] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:50:09] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:50:09] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 00:54:33] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:54:56] [University 1] Starting University 1
+[29-07-2026 00:54:56] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 00:54:58] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:54:58] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:54:58] [University 1] Connection failed for 100.89.241.121:5002 (attempt 1/60): Connection refused
+[29-07-2026 00:55:03] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:55:03] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 00:55:03] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:55:03] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 00:55:03] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 00:55:03] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 00:55:03] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:55:03] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:55:03] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:55:03] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:02:39] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:02:57] [University 1] Starting University 1
+[29-07-2026 01:02:57] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 01:02:59] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:02:59] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:02:59] [University 1] Connection failed for 100.89.241.121:5002 (attempt 1/60): Connection refused
+[29-07-2026 01:03:04] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:03:04] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 01:03:04] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:03:04] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 01:03:04] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:03:04] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 01:03:04] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:03:04] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:03:04] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:03:04] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:03:50] [University 1] Starting University 1
+[29-07-2026 01:03:50] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 01:03:52] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:03:52] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:03:52] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 01:03:52] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:03:52] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 01:03:52] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:03:52] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 01:03:52] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:03:52] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:03:52] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:03:52] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:04:05] [University 1] RECEIVED TREE_CONFIG FROM University 5
+[29-07-2026 01:04:05] [University 1] Tree updated. Parent = 5 Children = []
+[29-07-2026 01:04:05] [University 1] Tree configuration received.
+[29-07-2026 01:04:12] [University 1] Tree received. Starting menu.
+[29-07-2026 01:04:57] [University 1] RECEIVED TOKEN_OWNER FROM University 5
+[29-07-2026 01:04:57] [University 1] Holder = 5 Token = false
+[29-07-2026 01:04:57] [University 1] RECEIVED START FROM University 5
+[29-07-2026 01:04:57] [University 1] SYSTEM STARTED
+[29-07-2026 01:05:17] [University 1] REQUESTING AI ACCELERATOR
+[29-07-2026 01:05:17] [University 1] SENT REQUEST TO University 5
+[29-07-2026 01:06:05] [University 1] REQUESTING AI ACCELERATOR
+[29-07-2026 01:06:50] [University 1] STARTED SNAPSHOT #1001
+[29-07-2026 01:06:50] [University 1] SENT MARKER TO University 2
+[29-07-2026 01:06:50] [University 1] SENT MARKER TO University 3
+[29-07-2026 01:06:50] [University 1] SENT MARKER TO University 4
+[29-07-2026 01:06:50] [University 1] SENT MARKER TO University 5
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:07:24] [University 1] Starting University 1
+[29-07-2026 01:07:24] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[29-07-2026 01:07:26] [University 1] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:07:26] [University 1] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:07:26] [University 1] Connected to 100.89.241.121:5002
+[29-07-2026 01:07:26] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:07:26] [University 1] Connection failed for 100.85.3.115:5003 (attempt 1/60): Connection refused
+[29-07-2026 01:07:31] [University 1] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:07:31] [University 1] Connected to 100.85.3.115:5003
+[29-07-2026 01:07:31] [University 1] Connecting to 100.85.3.115:5004  ...
+[29-07-2026 01:07:31] [University 1] Connected to 100.85.3.115:5004
+[29-07-2026 01:07:31] [University 1] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:07:31] [University 1] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 1] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:11:11] [University 1] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:23:44] [University 1] Starting University 1
+[30-07-2026 19:23:44] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[30-07-2026 19:23:46] [University 1] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:23:46] [University 1] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:23:46] [University 1] Connection failed for 100.85.3.115:5002 (attempt 1/60): Connection refused
+[30-07-2026 19:23:51] [University 1] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:23:51] [University 1] Connected to 100.85.3.115:5002
+[30-07-2026 19:23:51] [University 1] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:23:51] [University 1] Connected to 100.85.3.115:5003
+[30-07-2026 19:23:51] [University 1] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:23:51] [University 1] Connected to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:23:51] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:24:37] [University 1] Tree updated. Parent = -1 Children = [2, 3]
+[30-07-2026 19:24:37] [University 1] Tree configuration received.
+[30-07-2026 19:24:37] [University 1] SENT TREE_CONFIG TO University 2
+[30-07-2026 19:24:37] [University 1] SENT TREE_CONFIG TO University 3
+[30-07-2026 19:24:37] [University 1] SENT TREE_CONFIG TO University 4
+[30-07-2026 19:25:04] [University 1] Holder = 1 Token = true
+[30-07-2026 19:25:04] [University 1] SENT TOKEN_OWNER TO University 2
+[30-07-2026 19:25:04] [University 1] SENT TOKEN_OWNER TO University 3
+[30-07-2026 19:25:04] [University 1] SENT TOKEN_OWNER TO University 4
+[30-07-2026 19:25:04] [University 1] SYSTEM STARTED
+[30-07-2026 19:25:04] [University 1] SENT START TO University 2
+[30-07-2026 19:25:04] [University 1] SENT START TO University 3
+[30-07-2026 19:25:04] [University 1] SENT START TO University 4
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:41:20] [University 1] Starting University 1
+[30-07-2026 19:41:20] [University 1] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[30-07-2026 19:41:22] [University 1] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:41:22] [University 1] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:41:22] [University 1] SENT PING TO University 2
+[30-07-2026 19:41:22] [University 1] Ping sent to 100.85.3.115:5002
+[30-07-2026 19:41:22] [University 1] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:41:22] [University 1] SENT PING TO University 3
+[30-07-2026 19:41:22] [University 1] Ping sent to 100.85.3.115:5003
+[30-07-2026 19:41:22] [University 1] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:41:22] [University 1] SENT PING TO University 4
+[30-07-2026 19:41:22] [University 1] Ping sent to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:41:22] [University 1] Connection Test Complete.
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:47:54] [University 1] Starting University 1
+[30-07-2026 19:47:54] [University 1] SERVER STARTED ON PORT 5001
+------------------------------------------------------------
+[30-07-2026 19:47:56] [University 1] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:47:56] [University 1] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:47:56] [University 1] FAILED TO SEND PING TO University 2 : java.net.ConnectException: Connection refused
+[30-07-2026 19:47:56] [University 1] Connection failed for 100.85.3.115:5002 (attempt 1/60)
+[30-07-2026 19:47:58] [University 1] RECEIVED PING FROM University 2
+[30-07-2026 19:47:58] [University 1] PING received from University 2
+[30-07-2026 19:48:01] [University 1] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:48:01] [University 1] SENT PING TO University 2
+[30-07-2026 19:48:01] [University 1] Ping delivered to 100.85.3.115:5002
+[30-07-2026 19:48:01] [University 1] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:48:01] [University 1] SENT PING TO University 3
+[30-07-2026 19:48:01] [University 1] Ping delivered to 100.85.3.115:5003
+[30-07-2026 19:48:01] [University 1] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:48:01] [University 1] FAILED TO SEND PING TO University 4 : java.net.ConnectException: Connection refused
+[30-07-2026 19:48:01] [University 1] Connection failed for 100.85.3.115:5004 (attempt 1/60)
+[30-07-2026 19:48:01] [University 1] RECEIVED PING FROM University 3
+[30-07-2026 19:48:01] [University 1] PING received from University 3
+[30-07-2026 19:48:04] [University 1] RECEIVED PING FROM University 4
+[30-07-2026 19:48:04] [University 1] PING received from University 4
+[30-07-2026 19:48:06] [University 1] Connecting to 100.85.3.115:5004  ...
+[30-07-2026 19:48:06] [University 1] SENT PING TO University 4
+[30-07-2026 19:48:06] [University 1] Ping delivered to 100.85.3.115:5004
+------------------------------------------------------------
+[30-07-2026 19:48:06] [University 1] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:49:04] [University 1] Tree updated. Parent = -1 Children = [2, 3]
+[30-07-2026 19:49:04] [University 1] Tree configuration received.
+[30-07-2026 19:49:04] [University 1] SENT TREE_CONFIG TO University 2
+[30-07-2026 19:49:04] [University 1] SENT TREE_CONFIG TO University 3
+[30-07-2026 19:49:04] [University 1] SENT TREE_CONFIG TO University 4
+[30-07-2026 19:49:28] [University 1] Holder = 1 Token = true
+[30-07-2026 19:49:28] [University 1] SENT TOKEN_OWNER TO University 2
+[30-07-2026 19:49:28] [University 1] SENT TOKEN_OWNER TO University 3
+[30-07-2026 19:49:28] [University 1] SENT TOKEN_OWNER TO University 4
+[30-07-2026 19:49:28] [University 1] SYSTEM STARTED
+[30-07-2026 19:49:28] [University 1] SENT START TO University 2
+[30-07-2026 19:49:28] [University 1] SENT START TO University 3
+[30-07-2026 19:49:28] [University 1] SENT START TO University 4
+[30-07-2026 19:49:53] [University 1] REQUESTING AI ACCELERATOR
+[30-07-2026 19:49:53] [University 1] ENTERING CRITICAL SECTION
+[30-07-2026 19:50:04] [University 1] RECEIVED REQUEST FROM University 2
+[30-07-2026 19:50:53] [University 1] EXITING CRITICAL SECTION
+[30-07-2026 19:50:53] [University 1] SENT TOKEN TO University 2
+[30-07-2026 19:50:53] [University 1] TOKEN SENT TO University 2
+[30-07-2026 19:51:14] [University 1] RECEIVED REQUEST FROM University 3
+[30-07-2026 19:51:14] [University 1] SENT REQUEST TO University 2
+[30-07-2026 19:52:54] [University 1] RECEIVED TOKEN FROM University 2
+[30-07-2026 19:52:54] [University 1] TOKEN RECEIVED
+[30-07-2026 19:52:54] [University 1] SENT TOKEN TO University 3
+[30-07-2026 19:52:54] [University 1] TOKEN SENT TO University 3
+[30-07-2026 19:52:54] [University 1] RECEIVED REQUEST FROM University 2
+[30-07-2026 19:52:54] [University 1] SENT REQUEST TO University 3
+[30-07-2026 19:53:54] [University 1] RECEIVED TOKEN FROM University 3
+[30-07-2026 19:53:54] [University 1] TOKEN RECEIVED
+[30-07-2026 19:53:54] [University 1] SENT TOKEN TO University 2
+[30-07-2026 19:53:54] [University 1] TOKEN SENT TO University 2

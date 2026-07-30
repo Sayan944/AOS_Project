@@ -37,3 +37,512 @@ National Supercomputing Consortium
 ------------------------------------------------------------
 [27-07-2026 15:08:15] [University 4] Waiting for coordinator (University 1) to broadcast the tree...
 [27-07-2026 18:56:22] [University 4] STARTED SNAPSHOT #4001
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:31:31] [University 4] Starting University 4
+[28-07-2026 14:31:31] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:31:33] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:31:33] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:31:33] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:31:33] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:31:33] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:31:33] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:31:33] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:31:33] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:31:33] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:32:07] [University 4] Starting University 4
+[28-07-2026 14:32:07] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:32:09] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:32:09] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:32:09] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:32:09] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:32:09] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:32:09] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:32:09] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:32:09] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:32:09] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:36:04] [University 4] Starting University 4
+[28-07-2026 14:36:04] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:36:06] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:36:06] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:36:06] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:36:06] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:36:06] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:36:06] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:36:06] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:36:06] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:36:06] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:40:57] [University 4] Starting University 4
+[28-07-2026 14:40:57] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:40:59] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:40:59] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:40:59] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:40:59] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:40:59] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:40:59] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:40:59] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:40:59] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:40:59] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:44:13] [University 4] Starting University 4
+[28-07-2026 14:44:13] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:44:15] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:44:15] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:44:15] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:44:15] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:44:15] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:44:15] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:44:15] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:44:15] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:44:15] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:45:48] [University 4] Starting University 4
+[28-07-2026 14:45:48] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:45:50] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:45:50] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:45:50] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:45:50] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:45:50] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:45:50] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:45:50] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:45:50] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:45:50] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:51:19] [University 4] Starting University 4
+[28-07-2026 14:51:19] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[28-07-2026 14:51:21] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:51:21] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:51:21] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:51:21] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:51:21] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:51:21] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:51:21] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:51:21] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:51:21] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:58:32] [University 4] Starting University 4
+[28-07-2026 14:58:32] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 14:58:34] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:58:34] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:58:34] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:58:34] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:58:34] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:58:34] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:58:34] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:58:34] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:58:34] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 14:59:21] [University 4] Starting University 4
+[28-07-2026 14:59:21] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 14:59:23] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 14:59:23] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 14:59:23] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 14:59:23] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 14:59:23] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 14:59:23] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 14:59:23] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 14:59:23] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 14:59:23] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 15:03:00] [University 4] Starting University 4
+[28-07-2026 15:03:00] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 15:03:02] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 15:03:02] [University 4] FAILED -> University 1 (100.121.48.30 //sayan:5001)
+[28-07-2026 15:03:02] [University 4] Reason : 100.121.48.30 //sayan
+[28-07-2026 15:03:02] [University 4] FAILED -> University 2 (192.168.0.111 //sampurna:5002)
+[28-07-2026 15:03:02] [University 4] Reason : 192.168.0.111 //sampurna
+[28-07-2026 15:03:02] [University 4] FAILED -> University 3 (192.168.0.202 //suhana:5003)
+[28-07-2026 15:03:02] [University 4] Reason : 192.168.0.202 //suhana
+------------------------------------------------------------
+[28-07-2026 15:03:02] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 15:03:02] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 15:06:04] [University 4] Starting University 4
+[28-07-2026 15:06:04] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 15:06:06] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 15:06:06] [University 4] FAILED -> University 1 (100.121.48.30 :5001)
+[28-07-2026 15:06:06] [University 4] Reason : java.net.UnknownHostException: 100.121.48.30
+[28-07-2026 15:06:06] [University 4] FAILED -> University 2 (192.168.0.111 :5002)
+[28-07-2026 15:06:06] [University 4] Reason : java.net.UnknownHostException: 192.168.0.111
+[28-07-2026 15:06:06] [University 4] FAILED -> University 3 (192.168.0.202 :5003)
+[28-07-2026 15:06:06] [University 4] Reason : java.net.UnknownHostException: 192.168.0.202
+------------------------------------------------------------
+[28-07-2026 15:06:06] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 15:06:06] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 15:10:44] [University 4] Starting University 4
+[28-07-2026 15:10:44] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 15:10:46] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 15:10:49] [University 4] FAILED -> University 1 (100.121.48.30:5001)
+[28-07-2026 15:10:49] [University 4] Reason : java.net.SocketTimeoutException: Connect timed out
+[28-07-2026 15:10:49] [University 4] SUCCESS -> University 2 (192.168.0.111:5002)
+[28-07-2026 15:10:49] [University 4] FAILED -> University 3 (192.168.0.202:5003)
+[28-07-2026 15:10:49] [University 4] Reason : java.net.ConnectException: Connection refused
+------------------------------------------------------------
+[28-07-2026 15:10:49] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 15:10:49] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[28-07-2026 15:13:30] [University 4] Starting University 4
+[28-07-2026 15:13:30] [University 4] SERVER ERROR : Address already in use
+------------------------------------------------------------
+[28-07-2026 15:13:32] [University 4] Testing Connections...
+------------------------------------------------------------
+[28-07-2026 15:13:35] [University 4] FAILED -> University 1 (100.121.48.30:5001)
+[28-07-2026 15:13:35] [University 4] Reason : java.net.SocketTimeoutException: Connect timed out
+[28-07-2026 15:13:35] [University 4] SUCCESS -> University 2 (192.168.0.111:5002)
+[28-07-2026 15:13:35] [University 4] SUCCESS -> University 3 (192.168.0.202:5003)
+------------------------------------------------------------
+[28-07-2026 15:13:35] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[28-07-2026 15:13:35] [University 4] Waiting for coordinator (University 2) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:12:03] [University 4] Starting University 4
+[29-07-2026 00:12:03] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 00:12:05] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:12:05] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:12:05] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 00:12:05] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:12:05] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 00:12:05] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:12:05] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 00:12:05] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:12:05] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:12:05] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:12:05] [University 4] Waiting for coordinator (University 1) to broadcast the tree...
+[29-07-2026 00:29:10] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:10] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:10] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:18] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:18] [University 4] RECEIVED TREE_CONFIG FROM University 1
+[29-07-2026 00:29:18] [University 4] Tree updated. Parent = 1 Children = []
+[29-07-2026 00:29:18] [University 4] Tree configuration received.
+[29-07-2026 00:29:18] [University 4] RECEIVED TOKEN_OWNER FROM University 1
+[29-07-2026 00:29:18] [University 4] Holder = 1 Token = false
+[29-07-2026 00:29:18] [University 4] RECEIVED START FROM University 1
+[29-07-2026 00:29:18] [University 4] SYSTEM STARTED
+[29-07-2026 00:29:18] [University 4] RECEIVED MARKER FROM University 2
+[29-07-2026 00:29:18] [University 4] STARTED SNAPSHOT #2001
+[29-07-2026 00:29:18] [University 4] FAILED TO SEND MARKER TO University 1
+[29-07-2026 00:29:18] [University 4] FAILED TO SEND MARKER TO University 2
+[29-07-2026 00:29:18] [University 4] FAILED TO SEND MARKER TO University 3
+[29-07-2026 00:29:18] [University 4] FAILED TO SEND MARKER TO University 5
+[29-07-2026 00:29:18] [University 4] Marker received from University 2 (1/4 channels closed)
+[29-07-2026 00:29:18] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:18] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:29:18] [University 4] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:30:29] [University 4] Starting University 4
+[29-07-2026 00:30:29] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 00:30:31] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:30:31] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:30:31] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 00:30:31] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:30:31] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 00:30:31] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:30:31] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 00:30:31] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:30:31] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:30:31] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:30:31] [University 4] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:49:24] [University 4] Starting University 4
+[29-07-2026 00:49:24] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 00:49:26] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:49:26] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:49:26] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 00:49:26] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:31] [University 4] Connection timed out for 100.89.241.121:5002 (attempt 1/60)
+[29-07-2026 00:49:36] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:41] [University 4] Connection timed out for 100.89.241.121:5002 (attempt 2/60)
+[29-07-2026 00:49:46] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:49:51] [University 4] Connection timed out for 100.89.241.121:5002 (attempt 3/60)
+[29-07-2026 00:49:56] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:50:01] [University 4] Connection timed out for 100.89.241.121:5002 (attempt 4/60)
+[29-07-2026 00:50:06] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:50:06] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 00:50:06] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:50:06] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 00:50:06] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:50:06] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:50:06] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:50:06] [University 4] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 00:54:33] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:54:33] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:54:38] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:54:38] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:54:38] [University 4] RECEIVED TREE_CONFIG FROM University 5
+[29-07-2026 00:54:38] [University 4] Tree updated. Parent = 3 Children = []
+[29-07-2026 00:54:38] [University 4] Tree configuration received.
+[29-07-2026 00:54:38] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 00:54:38] [University 4] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 00:55:02] [University 4] Starting University 4
+[29-07-2026 00:55:02] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 00:55:04] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 00:55:04] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 00:55:04] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 00:55:04] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 00:55:04] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 00:55:04] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 00:55:04] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 00:55:04] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 00:55:04] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 00:55:04] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 00:55:04] [University 4] Waiting for coordinator (University 5) to broadcast the tree...
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:02:54] [University 4] Starting University 4
+[29-07-2026 01:02:54] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 01:02:56] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:02:56] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:02:56] [University 4] Connection failed for 100.85.3.115:5001 (attempt 1/60): Connection refused
+[29-07-2026 01:03:01] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:03:01] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 01:03:01] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:03:01] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 01:03:01] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:03:01] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 01:03:01] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:03:01] [University 4] Connection failed for 100.89.241.121:5005 (attempt 1/60): Connection refused
+[29-07-2026 01:03:06] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:03:06] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:03:06] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:03:06] [University 4] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:07:06] [University 4] ERROR HANDLING MESSAGE : null
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[29-07-2026 01:07:29] [University 4] Starting University 4
+[29-07-2026 01:07:29] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 4] Testing Connections...
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 4] Connecting to 100.85.3.115:5001  ...
+[29-07-2026 01:07:31] [University 4] Connected to 100.85.3.115:5001
+[29-07-2026 01:07:31] [University 4] Connecting to 100.89.241.121:5002  ...
+[29-07-2026 01:07:31] [University 4] Connected to 100.89.241.121:5002
+[29-07-2026 01:07:31] [University 4] Connecting to 100.85.3.115:5003  ...
+[29-07-2026 01:07:31] [University 4] Connected to 100.85.3.115:5003
+[29-07-2026 01:07:31] [University 4] Connecting to 100.89.241.121:5005  ...
+[29-07-2026 01:07:31] [University 4] Connected to 100.89.241.121:5005
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[29-07-2026 01:07:31] [University 4] Waiting for coordinator (University 5) to broadcast the tree...
+[29-07-2026 01:14:27] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 01:14:27] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 01:14:27] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 01:14:32] [University 4] ERROR HANDLING MESSAGE : null
+[29-07-2026 01:14:32] [University 4] RECEIVED TREE_CONFIG FROM University 5
+[29-07-2026 01:14:32] [University 4] Tree updated. Parent = 2 Children = []
+[29-07-2026 01:14:32] [University 4] Tree configuration received.
+[29-07-2026 01:14:32] [University 4] RECEIVED TOKEN_OWNER FROM University 5
+[29-07-2026 01:14:32] [University 4] Holder = 2 Token = false
+[29-07-2026 01:14:32] [University 4] RECEIVED START FROM University 5
+[29-07-2026 01:14:32] [University 4] SYSTEM STARTED
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:23:51] [University 4] Starting University 4
+[30-07-2026 19:23:51] [University 4] SERVER STARTED ON PORT 5004
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 4] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 4] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:23:53] [University 4] Connected to 100.85.3.115:5001
+[30-07-2026 19:23:53] [University 4] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:23:53] [University 4] Connected to 100.85.3.115:5002
+[30-07-2026 19:23:53] [University 4] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:23:53] [University 4] Connected to 100.85.3.115:5003
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:23:53] [University 4] Waiting for coordinator (University 1) to broadcast the tree...
+[30-07-2026 19:47:04] [University 4] ERROR HANDLING MESSAGE : null
+[30-07-2026 19:47:18] [University 4] ERROR HANDLING MESSAGE : null
+[30-07-2026 19:47:25] [University 4] ERROR HANDLING MESSAGE : null
+[30-07-2026 19:47:25] [University 4] RECEIVED TREE_CONFIG FROM University 1
+[30-07-2026 19:47:25] [University 4] Tree updated. Parent = 2 Children = []
+[30-07-2026 19:47:25] [University 4] Tree configuration received.
+[30-07-2026 19:47:25] [University 4] RECEIVED TOKEN_OWNER FROM University 1
+[30-07-2026 19:47:25] [University 4] Holder = 2 Token = false
+[30-07-2026 19:47:25] [University 4] RECEIVED START FROM University 1
+[30-07-2026 19:47:25] [University 4] SYSTEM STARTED
+[30-07-2026 19:47:25] [University 4] RECEIVED PING FROM University 1
+------------------------------------------------------------
+------------------------------------------------------------
+National Supercomputing Consortium
+------------------------------------------------------------
+[30-07-2026 19:48:02] [University 4] Starting University 4
+[30-07-2026 19:48:02] [University 4] SERVER STARTED ON PORT 5004
+[30-07-2026 19:48:04] [University 4] RECEIVED PING FROM University 2
+[30-07-2026 19:48:04] [University 4] PING received from University 2
+------------------------------------------------------------
+[30-07-2026 19:48:04] [University 4] Testing Connections...
+------------------------------------------------------------
+[30-07-2026 19:48:04] [University 4] Connecting to 100.85.3.115:5001  ...
+[30-07-2026 19:48:04] [University 4] SENT PING TO University 1
+[30-07-2026 19:48:04] [University 4] Ping delivered to 100.85.3.115:5001
+[30-07-2026 19:48:04] [University 4] Connecting to 100.85.3.115:5002  ...
+[30-07-2026 19:48:04] [University 4] SENT PING TO University 2
+[30-07-2026 19:48:04] [University 4] Ping delivered to 100.85.3.115:5002
+[30-07-2026 19:48:04] [University 4] Connecting to 100.85.3.115:5003  ...
+[30-07-2026 19:48:04] [University 4] SENT PING TO University 3
+[30-07-2026 19:48:04] [University 4] Ping delivered to 100.85.3.115:5003
+------------------------------------------------------------
+[30-07-2026 19:48:04] [University 4] Connection Test Complete.
+------------------------------------------------------------
+[30-07-2026 19:48:04] [University 4] Waiting for coordinator (University 1) to broadcast the tree...
+[30-07-2026 19:48:06] [University 4] RECEIVED PING FROM University 1
+[30-07-2026 19:48:06] [University 4] PING received from University 1
+[30-07-2026 19:48:06] [University 4] RECEIVED PING FROM University 3
+[30-07-2026 19:48:06] [University 4] PING received from University 3
+[30-07-2026 19:49:04] [University 4] RECEIVED TREE_CONFIG FROM University 1
+[30-07-2026 19:49:04] [University 4] Tree updated. Parent = 2 Children = []
+[30-07-2026 19:49:04] [University 4] Tree configuration received.
+[30-07-2026 19:49:28] [University 4] RECEIVED TOKEN_OWNER FROM University 1
+[30-07-2026 19:49:28] [University 4] Holder = 2 Token = false
+[30-07-2026 19:49:28] [University 4] RECEIVED START FROM University 1
+[30-07-2026 19:49:28] [University 4] SYSTEM STARTED
+[30-07-2026 19:50:04] [University 4] Tree received. Starting menu.
+[30-07-2026 19:50:04] [University 4] REQUESTING AI ACCELERATOR
+[30-07-2026 19:50:04] [University 4] SENT REQUEST TO University 2
+[30-07-2026 19:50:04] [University 4] REQUESTING AI ACCELERATOR
+[30-07-2026 19:50:53] [University 4] RECEIVED TOKEN FROM University 2
+[30-07-2026 19:50:53] [University 4] TOKEN RECEIVED
+[30-07-2026 19:50:53] [University 4] ENTERING CRITICAL SECTION
+[30-07-2026 19:51:54] [University 4] EXITING CRITICAL SECTION
+[30-07-2026 19:51:54] [University 4] REQUESTING AI ACCELERATOR
+[30-07-2026 19:51:54] [University 4] ENTERING CRITICAL SECTION
+[30-07-2026 19:51:54] [University 4] RECEIVED REQUEST FROM University 2
+[30-07-2026 19:52:54] [University 4] EXITING CRITICAL SECTION
+[30-07-2026 19:52:54] [University 4] SENT TOKEN TO University 2
+[30-07-2026 19:52:54] [University 4] TOKEN SENT TO University 2
+[30-07-2026 19:52:54] [University 4] REQUESTING AI ACCELERATOR
+[30-07-2026 19:52:54] [University 4] SENT REQUEST TO University 2
+[30-07-2026 19:53:54] [University 4] RECEIVED TOKEN FROM University 2
+[30-07-2026 19:53:54] [University 4] TOKEN RECEIVED
+[30-07-2026 19:53:54] [University 4] ENTERING CRITICAL SECTION
+[30-07-2026 19:54:54] [University 4] EXITING CRITICAL SECTION
